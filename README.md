@@ -1,2 +1,2 @@
-﻿rebase-practiceブランチで更新
+﻿mainブランチで更新(rabase コンクリフト用)
 
